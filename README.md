@@ -2,6 +2,6 @@
 
 My first bigger Flutter project
 
-## Getting Started
+## DEMO
 
 Demo of app:
