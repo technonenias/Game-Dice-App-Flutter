@@ -1,6 +1,6 @@
 # Game Dice App
 
-My first bigger Flutter project
+My first intermediate Flutter project
 
 ## DEMO
 
